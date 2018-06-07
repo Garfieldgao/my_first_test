@@ -1,6 +1,8 @@
 # -*- coding:utf-8 -*-
 """
-from https://blog.csdn.net/u012679707/article/details/80511968
+@author:GLJ  
+@file:test.py  
+@func:Use SVM to achieve Iris flower classification  
 
 """
 from sklearn import svm
